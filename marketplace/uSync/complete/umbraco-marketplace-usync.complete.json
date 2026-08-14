@@ -38,31 +38,31 @@
     ],
     "Screenshots": [
         {
-            "ImageUrl": "https://raw.githubusercontent.com/Jumoo/Public/main/img/complete/publisher-settings.png",
+            "ImageUrl": "https://assets.jumoo.co.uk/img/complete/publisher-settings.png",
             "Caption": "Control uSync.Publisher via the publisher dashboard"
         },
         {
-            "ImageUrl": "https://raw.githubusercontent.com/Jumoo/Public/main/img/complete/publisher-push.png",
+            "ImageUrl": "https://assets.jumoo.co.uk/img/complete/publisher-push.png",
             "Caption": "Push (or pull) content, media and settings between Umbraco Sites directly from the Backoffice."
         },
         {
-            "ImageUrl": "https://raw.githubusercontent.com/Jumoo/Public/main/img/complete/publisher-push-progress.png",
+            "ImageUrl": "https://assets.jumoo.co.uk/img/complete/publisher-push-progress.png",
             "Caption": "View the progress of your publishing"
         },
         {
-            "ImageUrl": "https://raw.githubusercontent.com/Jumoo/Public/main/img/complete/publisher-server-settings.png",
+            "ImageUrl": "https://assets.jumoo.co.uk/img/complete/publisher-server-settings.png",
             "Caption": "Control how servers connect with server settings"
         },
         {
-            "ImageUrl": "https://raw.githubusercontent.com/Jumoo/Public/main/img/complete/publisher-sidebyside.png",
+            "ImageUrl": "https://assets.jumoo.co.uk/img/complete/publisher-sidebyside.png",
             "Caption": "Visually compare you sites with Side by Site compare"
         },
         {
-            "ImageUrl": "https://raw.githubusercontent.com/Jumoo/Public/main/img/complete/exporter-dashboard.png",
+            "ImageUrl": "https://assets.jumoo.co.uk/img/complete/exporter-dashboard.png",
             "Caption": "Export and Import parts of your site with uSync.Exporter"
         },
         {
-            "ImageUrl": "https://raw.githubusercontent.com/Jumoo/Public/main/img/complete/snapshots.png",
+            "ImageUrl": "https://assets.jumoo.co.uk/img/complete/snapshots.png",
             "Caption": "Take point in time snapshots of your Umbraco installations"
         }
     ],

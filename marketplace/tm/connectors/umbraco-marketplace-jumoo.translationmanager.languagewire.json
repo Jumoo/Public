@@ -34,15 +34,15 @@
   "IssueTrackerUrl": "https://github.com/Jumoo/Jumoo.TranslationManager.Issues",
   "Screenshots": [
     {
-      "ImageUrl": "https://raw.githubusercontent.com/Jumoo/Public/main/img/languagewire-jobview.png",
+      "ImageUrl": "https://assets.jumoo.co.uk/img/languagewire-jobview.png",
       "Caption": "View status of lanugageWire jobs directy in Umbraco"
     },
     {
-      "ImageUrl": "https://raw.githubusercontent.com/Jumoo/Public/main/img/languagewire-send.png",
+      "ImageUrl": "https://assets.jumoo.co.uk/img/languagewire-send.png",
       "Caption": "Send content directly to Languagewire from the send to translate menu"
     },
     {
-      "ImageUrl": "https://raw.githubusercontent.com/Jumoo/Public/main/img/languagewire-settings.png",
+      "ImageUrl": "https://assets.jumoo.co.uk/img/languagewire-settings.png",
       "Caption": "Control and configure Languagewire connector via the settings screen"
     }
   ]

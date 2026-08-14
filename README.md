@@ -2,7 +2,9 @@
 
 Public files associated with Jumoo's packages and products.
 
-This repo serves static assets and metadata that need to be publicly accessible via raw URLs (e.g. `raw.githubusercontent.com`) — things that don't belong in a source repo or the org profile/standards repo.
+This repo serves static assets and metadata that need to be publicly accessible — things that don't belong in a source repo or the org profile/standards repo.
+
+Served via GitHub Pages at [assets.jumoo.co.uk](https://assets.jumoo.co.uk) (plain branch deploy, no build step — see `.nojekyll` and `CNAME`).
 
 ## Contents
 

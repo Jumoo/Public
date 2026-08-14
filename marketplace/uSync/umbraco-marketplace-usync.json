@@ -32,19 +32,19 @@
   ],
   "Screenshots": [
     {
-      "ImageUrl": "https://raw.githubusercontent.com/Jumoo/Public/main/img/usync/dashboard.png",
+      "ImageUrl": "https://assets.jumoo.co.uk/img/usync/dashboard.png",
       "Caption": "Control what is imported or exported via the dashboard"
     },
     {
-      "ImageUrl": "https://raw.githubusercontent.com/Jumoo/Public/main/img/usync/importing.png",
+      "ImageUrl": "https://assets.jumoo.co.uk/img/usync/importing.png",
       "Caption": "Importing content"
     },
     {
-      "ImageUrl": "https://raw.githubusercontent.com/Jumoo/Public/main/img/usync/report.png",
+      "ImageUrl": "https://assets.jumoo.co.uk/img/usync/report.png",
       "Caption": "View you pending changes with the report view "
     },
     {
-      "ImageUrl": "https://raw.githubusercontent.com/Jumoo/Public/main/img/usync/details.png",
+      "ImageUrl": "https://assets.jumoo.co.uk/img/usync/details.png",
       "Caption": "View the details of changes"
     }
   ],
